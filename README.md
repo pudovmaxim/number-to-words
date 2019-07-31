@@ -5,7 +5,7 @@
 [![Test Coverage](https://codeclimate.com/github/kwn/number-to-words/badges/coverage.svg)](https://codeclimate.com/github/kwn/number-to-words/coverage)
 [![Latest Stable Version](https://poser.pugx.org/kwn/number-to-words/v/stable)](https://packagist.org/packages/kwn/number-to-words)
 
-This library allows you to convert a number to words.
+This library allows you to convert a number to words. (Fork for tests)
 
 ## Installation
 
